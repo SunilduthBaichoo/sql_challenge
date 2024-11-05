@@ -12,7 +12,7 @@ SQL challenge as data engineer at Pewlett Hackard (fictional company)
 
 # Data Engineering
 
-The physical schema is given below. The  EmployeeSQL_DB Documentation can also be viewed from the file "EmployeeSQL_DB_Physical_schema.pdf"
+The physical schema is given below. The  EmployeeSQL_DB Documentation can also be viewed from the file [EmployeeSQL_DB_Physical_schema.pdf]()
 
 ## EmployeeSQL Physical_schema.txt
 
@@ -138,7 +138,7 @@ alter database "EmployeeSQL_DB" set datestyle='MDY';
 
 # Data Analysis
 
-The .sql file for all the following queries are found from  
+The .sql file for all the following queries can be accessed from [here](https://github.com/SunilduthBaichoo/sql_challenge/blob/main/data_analysis.sql)
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
 

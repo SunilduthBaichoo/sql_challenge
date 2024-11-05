@@ -12,7 +12,7 @@ SQL challenge as data engineer at Pewlett Hackard (fictional company)
 
 # Data Engineering
 
-The physical schema is given below. The  EmployeeSQL_DB Documentation can also be viewed from the file [EmployeeSQL_DB_Physical_schema.pdf]()
+The physical schema is given below. The  EmployeeSQL_DB Documentation can also be viewed from the file [EmployeeSQL_DB_Physical_schema.pdf](https://github.com/SunilduthBaichoo/sql_challenge/blob/main/EmployeeSQL_DB_Physical_schema.pdf)
 
 ## EmployeeSQL Physical_schema.txt
 

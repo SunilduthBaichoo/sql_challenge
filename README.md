@@ -7,11 +7,11 @@ SQL challenge as data engineer at Pewlett Hackard (fictional company)
 ## Entity Relationship Diagram
 
 
-![alt text](EmployeeSQL_DB_ERD-1-1.png)
+![alt text](<QuickDBD-EmployeeSQL_DB (1)-1.png>)
 
 # Data Engineering
 
-The physical schema is given below. The  EmployeeSQL_DB Documentation van also be viewed from the file "EmployeeSQL_DB_Physical_schema.pdf"
+The physical schema is given below. The  EmployeeSQL_DB Documentation can also be viewed from the file "EmployeeSQL_DB_Physical_schema.pdf"
 
 ## EmployeeSQL Physical_schema.txt
 
@@ -51,7 +51,7 @@ dept_no CHAR(4) FK >- departments.dept_no <br>
 
 dept_manager
 -
-dept_no CHAR(4) FK - departments.dept_no <br>
+dept_no CHAR(4) FK >- departments.dept_no <br>
 emp_no INT FK - employees.emp_no <br>
 
 
@@ -137,9 +137,9 @@ alter database "EmployeeSQL_DB" set datestyle='MDY';
 
 # Data Analysis
 
+The .sql file for all the following queries are found from  
+
 1. List the employee number, last name, first name, sex, and salary of each employee.
-
-
 
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
 

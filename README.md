@@ -7,7 +7,8 @@ SQL challenge as data engineer at Pewlett Hackard (fictional company)
 ## Entity Relationship Diagram
 
 
-![alt text](EmployeeSQL_DB_ERD-1-1.png)
+
+![image](https://github.com/user-attachments/assets/ad12898f-15e1-4038-a4c1-b366f5e9c08b)
 
 # Data Engineering
 

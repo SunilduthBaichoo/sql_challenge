@@ -59,6 +59,8 @@ salary INT
 
 # EmployeeSQL.sql
 
+## The sql file for the Physical_schema is found in file "QuickDBD-EmployeeSQL_DB_table_schemata_updated.sql"
+
 -- Exported from QuickDBD: https://www.quickdatabasediagrams.com/ <br>
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/JLW7Qo
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
@@ -148,6 +150,8 @@ alter database "EmployeeSQL_DB" set datestyle='MDY';
 
 
 # Data Analysis
+
+## The Data Analysis sql codes are found in the file "data_analysis_updated.sql"
 
 ## Verify data in all tables
 

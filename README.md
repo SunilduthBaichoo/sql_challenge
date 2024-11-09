@@ -165,8 +165,6 @@ SELECT * FROM titles;
 
 ## Data Analysis
 
-The sql file for the data Analysis can be access from [here] (data_analysis_updated.sql)
-
 -- 1. List the employee number, last name, first name, sex, and salary of each employee.
 
 SELECT e.emp_no, e.last_name, e.first_name, e.sex, s.salary
